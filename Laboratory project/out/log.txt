@@ -1,0 +1,27 @@
+List all songs
+List all songs
+Filter songs by release year: 2020
+List all songs
+List all songs
+List all songs
+List all songs
+Add song Song1
+List all songs
+List all songs
+List all songs
+Add song Song1
+List all songs
+Delete song Song1
+List all songs
+List all songs
+Add song Song1
+List all songs
+Delete song Song1
+List all songs
+Delete song Song1
+List all songs
+Add song Song1
+List all songs
+Delete song Song1
+List all songs
+Delete song Song1

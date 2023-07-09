@@ -31,3 +31,7 @@ Lecture Notes and Project for Design Patterns course
 * [Strategy](https://unexpected-fin-7b2.notion.site/Strategy-Design-Pattern-d9ef0833d13048b086fcc53c4784a996)
 * [Template](https://unexpected-fin-7b2.notion.site/Template-Design-Pattern-5f484241088d42ccb77a0e397f52e3b1)
 * [Visitor](https://unexpected-fin-7b2.notion.site/Visitor-Design-Pattern-c3ccc78cea36427a9507bd6f851f72ac)
+
+## Laboratory Project
+
+- [Laboratory project which incorporates 5 design patterns: Command, Iterator, Adapter, Strategy, and Singleton](https://github.com/DiaconuAna/Design-Patterns/tree/main/Laboratory%20project)
